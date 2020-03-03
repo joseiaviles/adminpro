@@ -14,7 +14,6 @@ import { FormsModule } from '@angular/forms';
 
 // Servicios
 import { ServiceModule } from './service/service.module';
-
 @NgModule({
   declarations: [
     AppComponent,
